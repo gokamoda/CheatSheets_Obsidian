@@ -23,12 +23,8 @@
             "id": "419afedfb4be4450",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,17 +151,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "419afedfb4be4450",
+  "active": "a4cd75748f1e5435",
   "lastOpenFiles": [
+    "Windows11/Windows11 初期化2023-01-30.md",
+    "Windows11/Windows11.md",
+    "Windows/Windows11 初期化2023-01-30.md",
+    "Windows/Win11 + WSL2 + Ubuntu22.04.md",
+    "Windows11/Win11 + WSL2 + Ubuntu22.04.md",
+    "Windows11/Winget.md",
+    "README.md",
     "WSL/Docker.md",
     "WSL/WSL.md",
-    "README.md",
-    "Windows11/Windows11 初期化2023-01-30.md",
-    "Windows11/外付けUSキーボードの利用.md",
-    "Windows11/Winget.md",
-    "Apps/VSCode.md",
-    "Apps/Apps.md",
-    "WSL/Pyenv.md",
-    "WSL/Backup.md"
+    "Windows11/外付けUSキーボードの利用.md"
   ]
 }
