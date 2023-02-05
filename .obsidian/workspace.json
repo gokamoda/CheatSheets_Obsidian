@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "4c336f45f6072ecd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3dc3852bf3d2934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd0449b976b8226f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apps/VSCode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "419afedfb4be4450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63b5edf59ef78909",
+    "type": "split",
+    "children": [
+      {
+        "id": "379ef3eb9bb9c8be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4cd75748f1e5435",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09d815b7f6c98a56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84bc18aa0cff8c8c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5947a7d9e1438e0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "77b1fb3761558934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cd56ffe39fa3f92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8c983d60aee6b35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93d6940a440a9eb7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70d3d999a6a7c08f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "419afedfb4be4450",
+  "lastOpenFiles": [
+    "WSL/Docker.md",
+    "WSL/WSL.md",
+    "README.md",
+    "Windows11/Windows11 初期化2023-01-30.md",
+    "Windows11/外付けUSキーボードの利用.md",
+    "Windows11/Winget.md",
+    "Apps/VSCode.md",
+    "Apps/Apps.md",
+    "WSL/Pyenv.md",
+    "WSL/Backup.md"
+  ]
+}
